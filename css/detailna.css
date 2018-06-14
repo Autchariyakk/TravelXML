@@ -1,0 +1,42 @@
+
+section{
+	 padding-bottom: 4.2%;
+}
+h1{
+	color: #000;
+	font-family: 'Righteous','Mitr', cursive;
+	/*font-family: 'Mitr', sans-serif;*/
+	font-size: 3.5em;
+}
+.m3{
+	width: 70%;
+	padding:3%;
+	padding-bottom: 2.5%;
+	border-radius: 10%/15%;
+}
+.m3:hover{
+	opacity: 0.85;
+	-webkit-transition:all 0.5s ease;
+	-webkit-transform: scale(1.1);
+}
+.p1{
+	font-size: 1.45em;
+	color: #000;
+	text-indent: 10%;
+	padding-right: 5%;
+	padding-left: 5%;
+	font-family: 'Pridi', serif;
+}
+.p2{
+	font-size: 1.25em;
+	color: #000;
+	padding-right: 5%;
+	padding-left: 5%;
+	font-family: 'Pridi', serif;
+}
+.n1{
+	text-decoration: none;
+}
+.n1:hover{
+	text-decoration: none;
+}
